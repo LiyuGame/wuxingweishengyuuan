@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "638c6675-287a-4ba1-9d8e-4f0da17d54c3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 129,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "高效去污器": {
+      "ver": "1.0.6",
+      "uuid": "b8e1fa15-e3d4-41d4-bb75-431af2ec35f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "638c6675-287a-4ba1-9d8e-4f0da17d54c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 129,
+      "height": 135,
+      "rawWidth": 129,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

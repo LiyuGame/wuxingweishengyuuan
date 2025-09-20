@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0edfb426-8d3f-4860-9c76-f99874354945",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 94,
+  "height": 86,
+  "platformSettings": {},
+  "subMetas": {
+    "烘干机": {
+      "ver": "1.0.6",
+      "uuid": "80db1d4b-ca2b-4c65-b7e8-591bd492c832",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0edfb426-8d3f-4860-9c76-f99874354945",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 2,
+      "width": 89,
+      "height": 84,
+      "rawWidth": 94,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
